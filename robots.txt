@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-0bertc.yoursingles.online/sitemap.xml
